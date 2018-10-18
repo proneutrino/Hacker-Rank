@@ -1,7 +1,6 @@
 import Queue
 from Queue import *
 
-#import sys
 
 l, m, r = [], [], []
 a, b, c, d = 0, 0, 0, 0
